@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sabujrouth" target="blank"><img src="https://img.shields.io/twitter/follow/sabujrouth?logo=twitter&style=for-the-badge" alt="sabujrouth" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript/React**
 
 - 📝 I regularly write articles on [https://sabujrouth.blogspot.com/](https://sabujrouth.blogspot.com/)
 
